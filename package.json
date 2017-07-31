@@ -1,6 +1,6 @@
 {
   "name": "es3ify-webpack-plugin-v2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Es3 webpack plugin v2",
   "main": "index.js",
   "scripts": {
